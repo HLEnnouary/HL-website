@@ -1,0 +1,180 @@
+
+#bb{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: hsl(180, 98%, 49%);
+}
+.port{
+    border: 2px solid;
+    border-radius: 2px;
+    margin-right: 4px;
+    background-color: black;
+    color: rgb(169, 202, 202);
+    text-decoration: none;
+    font-style: italic;
+}
+.about{
+    border: 2px solid;
+    border-radius: 3px;
+    margin-right: 4px;
+    background-color: black;
+    color: rgb(169, 202, 202);
+    outline: none;
+    text-decoration: none;
+    font-style: italic;
+}
+.home{
+    border: 2px solid;
+    border-radius: 3px;
+    margin-right: 4px;
+    background-color: black;
+    color: rgb(169, 202, 202);
+    text-decoration: onoe;
+    font-style: italic;
+}
+.contact{
+    border: 2px solid;
+    border-radius: 3px;
+    margin-right: 4px;
+    background-color: black;
+    color: rgb(169, 202, 202);
+    text-decoration: none;
+    font-style: italic;
+}
+#me{
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    text-underline-offset:3px;
+}
+#ti{
+    text-align: center;
+    text-decoration: solid;
+    font-style: italic;
+}
+hr{
+    padding: 5px;
+    background-color: black;
+    margin: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#m1{
+    border: 2px solid;
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    border-radius: 5px;
+}
+#m2{
+    border: 2px solid;
+    height: 400px;
+    width: 400px;
+    align-items: center;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+#m3{
+    border: 2px solid;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+}
+#m4{
+    border: 2px solid;
+    height: 400px;
+    width: 400px;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+#m5{
+    border: 2px solid;
+    height: 250px;
+    width: 250px;
+    align-items: center;
+    margin-left:20vh ;
+    border-radius: 150px;
+    margin-top: 20px;
+    margin-bottom: 20vh;
+}
+#m6{
+    border: 2px solid;
+    height: 200px;
+    width: 300px;
+    margin-left: 30%;
+    margin-top: 100px;
+}
+#m8{
+    border: 2px solid;
+    height: 200px;
+    width: 300px;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+#m9{
+    border: 2px solid;
+    height: 200px;
+    width: 300px;
+    margin-left: 30%;
+}
+#m10{
+    border: 2px solid;
+    height: 200px;
+    width: 300px;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+#profile{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 80%;
+    border-radius: 20px;
+}
+#first{
+    text-align: center;
+}
+#second{
+    text-align: end;
+    margin-right: 20px;
+}
+#pa{
+    margin-right: 130px;
+}
+p{
+    font-style: italic;
+}
+#paragraph{
+    text-align: center;
+}
+#pppp{
+    margin-left: 10px;
+}
+#ppp{
+    margin-left: 20vh;
+}
+#wolf{
+    margin-left: 30%;
+}
+#pop{
+    margin-top: 10%;
+    text-align: center;
+}
+#moon{
+    margin-left: 45%;
+}
+#mm10{
+    margin-left: 35%;
+}
+#mowol{
+    margin-left: 50%;
+}
+#p5{
+    margin-left: 80%;
+    margin-top: -130px;
+}
